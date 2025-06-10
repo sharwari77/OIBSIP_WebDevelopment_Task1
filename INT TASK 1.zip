@@ -1,12 +1,1 @@
-# If not already done:
-git clone https://github.com/sharwari77/OIBSIP_WebDevelopment_Task1.git
-cd OIBSIP_WebDevelopment_Task1
 
-# Remove the file
-git rm "INT TASK 1.zip"
-
-# Commit the deletion
-git commit -m "Remove zip file from repository"
-
-# Push changes
-git push origin main
